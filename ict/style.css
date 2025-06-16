@@ -1,0 +1,27 @@
+img{
+    height: 200px;
+    width:400px;
+
+}
+h3{
+text-align: center;
+color: coral;
+background-color: darkgoldenrod;
+border: 3px;
+border-style: groove;
+border-color: chocolate;
+border-radius: 12px;
+}
+table,tr,td{
+    border: 2px solid ;
+    background-color: darksalmon;
+    border-radius: 8px;
+    font-style: oblique;
+   
+}
+.hello{
+    background-color:blueviolet;
+    border:12px solid coral;
+    margin: 30px 60px;
+    padding:20px;
+}
